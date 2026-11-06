@@ -2,6 +2,14 @@
 
 这里收录我公开分享的 AI 应用与工具。
 
+## 常青秘境 · 宝可梦生存挑战
+
+用 Three.js 制作的第三人称 3D 生存游戏。小火龙和杰尼龟可以在一局中完成两次进化，带着一路叠加的火系或水系强化，迎战五波敌人。
+
+![常青秘境实机战斗画面](https://raw.githubusercontent.com/zaojie/pokemon-arena/main/docs/forest-battle.jpg)
+
+[查看游戏、操作与本地试玩步骤](https://github.com/zaojie/pokemon-arena#readme)
+
 ## 造影 · FrameFoundry
 
 输入产品简报和已运行的程序网址，自动浏览真实界面、采集截图，结合中文分镜与本地配音，制作一分钟产品演示视频。提供浏览器配置缓存、登录诊断和可编辑工程导出。
