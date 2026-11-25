@@ -2,6 +2,14 @@
 
 这里收录我公开分享的 AI 应用与工具。
 
+## 雨庭 · Ink Studio 高斯像素庭院
+
+用 SDF 雕刻樱花、神社与池塘，烘焙为 72,304 个高斯点，由 Ink Studio 原生 WebGL 2 渲染器展示。支持拖动旋转、缩放、雨滴与落花动画，并可在「像素风 / 原始高斯」之间切换，比较同一场景的后处理效果。
+
+![雨庭像素风效果](https://raw.githubusercontent.com/zaojie/pixel-garden/main/docs/ink-pixel-preview.jpg)
+
+[在线体验](https://zaojie.github.io/pixel-garden/) · [查看源代码与制作流程](https://github.com/zaojie/pixel-garden#readme)
+
 ## 常青秘境 · 宝可梦生存挑战
 
 用 Three.js 制作的第三人称 3D 生存游戏。小火龙和杰尼龟可以在一局中完成两次进化，带着一路叠加的火系或水系强化，迎战五波敌人。
